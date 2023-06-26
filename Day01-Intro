@@ -1,0 +1,235 @@
+AWS with Devops:-
+---
+
+Cloud computing:-
+----
+
+Cloud?
+
+Server
+
+Service based company -> HCL, CTS, Capgemini, Wipro, / Ford, HDFC (client or customer)
+
+Product based company -> Flipkart, Amazon, Paytm, Paypal, Uber
+
+SDLC -> Software development life cycle
+
+Step by step procedure to develop the end product or software.
+
+1. SDLC
+2. STLC
+3. BLC
+
+7 steps.
+
+1. Requirement collection
+
+CTs(company) -> SCOPE (client)
+
+Web application -> Online banking app
+
+Requirement
+
+Business Analyst
+
+2. BA -> Meeting + Finance, HR, CTO, CEO
+
+Feasibility study
+
+3. Design -> Architect -> HLD, LLD
+
+4. Development -> Coding -> Java/JS/Python, FE, BE , DB
+
+5. Testing or QA or QE or QC -> To find the bugs/defects
+
+MT, AT, ETL
+
+RC vs Developed Product = Difference = Bug
+
+6. Installation or Deployment -> Server -> Prod or Live server
+
+7. Maintenace -> QA / Monitoring
+
+RC, FS, D, C, T, I, M = SDLC
+
+Requirement collection
+
+CTS(Company) -> HDFC Netbanking (client)
+
+Docuement -> CTS (BA)
+
+-----
+
+
+Devops
+---
+
+Development + Operation
+
+Coder or Developer -> Code -> Server -> Application -> No Prob
+
+Code -> Operational team -> Server -> Error
+
+Laptop (Confi) + Dependency
+
+Dev + Ops = Automate
+
+
+
+Development , QA, Deployment
+
+Using differnet tools.
+
+
+Maven
+GIT
+Jenkins
+Docker
+Ansibile
+Kubenertes
+Terraform
+Promo
+Grafana
+etc..
+
+----
+
+Cloud computing?
+
+Client -> Application -> xyz.com
+
+1. resource -> No of servers -> 10
+2. No of users -> 100
+
+100 User -> 1 M
+
+1 User
+
+Scalability problem
+
+Data centre problems:-
+
+1. Scalability -> No auto scaling -> No scale out or in.
+
+Load out -> Scale out -> No of server -> Inc
+
+Load in -> Scale in -> No of servers -> Dec
+
+2. Security
+
+3. Capital expenditure
+
+4. Operational cost
+
+5. Time
+
+-----
+
+Data centre -> Cloud?
+
+Cloud computing?
+
+Concept -> Multiple services -> Perform -> Day to day task.
+
+Cloud providers -> AWS, AZURE, GCP
+
+AWS -> Data centres
+
+1. Security
+
+2. Virtutal server -> Pay per usage
+
+3. Virtual server -> No capital
+
+4. Virtual server -> No operatial
+
+5. No time delay -> Lesser than 1 min
+
+AWS + Devops
+
+Services + Tools
+
+
+
+
+Course duration: 3 Months
+
+Monday to Friday -> 1.15
+
+AWS -> 1 Months
+
+Devops -> 45 days
+
+Python
+
+Linux
+
+Real time projects -> AWS & Devoper -> Pipe line
+
+
+
+GIT
+Jenkins
+Ansibile
+Docker
+Kubernetes
+Terraform.
+
+Maven
+Grafana/Prom
+
+
+AWS -> EC2, EBS, EFS, VPC, IAM, Cloud formation, Lamda, SNS, SQS, Cloud watch, S3
+, RDS etc..
+
+Ec2 -> Elastic cloud computing -> Virtual server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
