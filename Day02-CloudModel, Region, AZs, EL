@@ -1,0 +1,168 @@
+Day 02: 
+---
+
+Cloud Computing
+---
+
+Concept -> Provides -> Services -> day to day task.
+
+Cloud Providers -> AWS, AZURE, GCP
+
+Physical servers.
+
+AWS -> Amazon web service -> Virtual server -> Deploy my app
+
+AWS -> Physical server -> Group of servers -> Data centre
+
+Cloud models:-
+----
+
+1. Cloud Service Model
+
+IAAS - Infrastuture as a service
+PAAS - Platform as a service
+SAAS - Software as a service
+
+2. Cloud Deployment Model
+
+Public cloud
+Private cloud
+Hybrid cloud
+Community cloud
+
+-----
+
+Public cloud vs Private cloud
+---
+
+IBM -> data centre -> Group of servers
+
+Private cloud
+
+VPN - Virtual private network
+
+----
+
+1. Scalability
+2. Security
+3. Capital exp
+4. Operational cost
+5. Time
+
+Private Cloud -> Public cloud
+
+AWS (Market share 30), AZURE(20), GCP(10)...
+
+-----
+
+Hybrid cloud
+----
+
+Public + Private
+
+Start up
+
+Application -> Local DS -> Cost
+
+Migrate
+
+Local DS -> Cloud
+
+CEO -> 
+
+Sensitive info -> Local DS / On premises
+
+Low sensitive data -> Cloud
+
+---
+
+Community model
+----
+
+3 or 4 company 
+
+Vendors IBM
+
+----
+
+IAAS
+PAAS
+SAAS
+---
+
+AWS -> IAAS
+
+https://www.oraniumtech.com
+
+
+Network, Storage, Hardware, Software, OS
+
+Virtual server or Physical server
+
+IAAS
+
+PAAS -> HW, OS, SW -> gaming app, Java (GTA vice)
+
+SAAS -> gmail.com, youtube.com, facebook.com
+
+---
+
+IAAS -> Virtulaiztion
+PAAS -> Virtulaization + Software update
+SAAS -> Virt + Software Update + Application
+
+AWS -> 25 to 30 services
+
+AWS -> 200+ services
+
+Kubernetes
+
+MySQL
+
+AWS -> MYSQL
+---
+
+Region -> Geographical location / Area
+
+Region -> Group of AZS 
+
+AZS -> Where AWS having Data centre
+
+----
+
+Developer -> www.oraniumtech.com
+
+India
+
+Customer -> USA
+
+AWS -> USA
+
+
+Developer -> App
+
+India
+
+USA, UK, Canada...
+
+UK
+
+-
+
+India -> Developer 
+
+-> UK
+
+Region -> AZ -> Data centre -> Server -> virtual server
+
+----
+
+
+App -> US - NV -> Low lattency -> More Performance
+
+
+UK -> EL -> 
+
+India -> EL
+
+Europe -> EL -> Edge location -> Caching technology
