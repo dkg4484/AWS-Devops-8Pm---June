@@ -1,1 +1,132 @@
 
+EC2, EFS, VPC...
+
+Service:-
+
+IAM - Identity and Access Managment
+
+AWS - Best practices
+
+Do not use root account for your day to day task!
+
+Manager -> Root user
+
+Root user + Protect root acc by adding another layer of authentication
+
+Gmail.com
+
+username + pwd = Login
+
+Username + pwd + Token = Login
+
+MFA -> Multi factor authentication
+
+-----
+
+Bank
+
+ID Card.
+
+Customer -> Authenticated person
+
+Employee Naveen -> Autheticated person
+
+Manager Kishore -> Auth
+
+Service desk -> Area1
+
+Employee desk -> Area2
+
+Financial desk (Sensitive info) -> Area3
+
+
+
+Authentcation -> Identity
+
+Authorization -> Accessability
+
+
+IAM = Identity and Access Managment
+
+Identity = Authentication
+
+Access = Authorization
+
+
+IT Company
+
+Dev
+
+QA
+
+
+
+Devops Architect engineer
+
+
+Public cloud -> AWS -> Root privelege
+
+20 Team
+
+Dev -> Cred -> Permission
+
+QA -> Cred -> Permission
+
+Iam
+
+
+
+JIRA
+
+Ticket
+
+outlook.com
+
+AWS -> Root -> Iam user -> uname and pwd (Authetication) + Iam policy (Permission) / Authoprizat
+
+----
+
+S3 = Simple storage service = Storage service
+
+S3 = Bucket logo
+
+
+AWS 
+
+UI
+
+CLI
+
+IAM Policy
+----
+
+AWS Managed policy
+
+AWS Custom policy
+
+--
+
+IAM User -> Authentication
+IAM Policy -> Authorization
+
+----
+
+IAM 
+
+User
+
+Policy
+
+Groups
+
+Roles
+
+--
+
+
+https://674857738361.signin.aws.amazon.com/console
+
+
+IAM user + Permission  -> 1 hr
+
+IAM roles -> Short bound access or Temporary
